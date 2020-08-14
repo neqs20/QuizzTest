@@ -1,0 +1,31 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=4
+
+_global_script_classes=[  ]
+_global_script_class_icons={
+
+}
+
+[application]
+
+config/name="EE08 exam"
+run/main_scene="res://MainMenu/MainMenu.tscn"
+config/icon="res://icon.png"
+
+[display]
+
+window/size/width=600
+window/size/height=800
+window/size/resizable=false
+
+[rendering]
+
+environment/default_clear_color=Color( 0.254902, 0.290196, 0.337255, 1 )
+environment/default_environment="res://default_env.tres"

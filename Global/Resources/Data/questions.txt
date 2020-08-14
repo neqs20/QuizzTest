@@ -1,0 +1,205 @@
+Adres MAC (Medium Access Control Address) jest sprzętowym adresem karty sieciowej Ethernet warstwy modelu OSI:
+A. trzeciej o długości 48 bitów
+B. drugiej o długości 32 bitów
+C. drugiej o długości 48 bitów*
+D. trzeciej o długości 32 bitów
+Na rysunku przedstawiono zrzut ekranu z przeprowadzonego testu <<1.jpg>>:
+A. czasu opróżniania buforu systemowego
+B. czasu dostępu do napędu optycznego
+C. czasu dostępu do dysku twardego
+D. czasu oczekiwania pamięci*
+Aby podłączyć kasę fiskalną wyposażoną w złącze komunikacyjne DB-9M do komputera stacjonarnego, należy zastosować przewód:
+A. DB-9M/M
+B. DB-9F/F*
+C. DB-9M/F
+D. DB-9F/M
+Warunkiem niezbędnym przy archiwizacji danych jest:
+A. kopiowanie danych*
+B. kompresja i kopiowanie danych
+C. kompresja danych
+D. kompresja i kopiowanie danych z jednoczesnym ich szyfrowaniem
+Okablowanie pionowe w sieci strukturalnej łączy się:
+A. w gnieździe abonenckim
+B. w głównym punkcie rozdzielczym w pośrednimi punktami rozdzielczymi*
+C. w głównym punkcie rozdzielczym z gniazdem abonenckim
+D. w pośrednim punkcie rozdzielczym z gniazdem abonenckim
+Zestaw reguł definiujących sposób przesyłania informacji w sieci opisuje:
+A. reguła
+B. standard
+C. zasada
+D. protokół*
+Użytkownik Jan nie może zmienić właściciela drukarki w systemie Windows. Aby miał taką możliwość, należy przypisać mu w opcjach zabezpieczeń prawo do:
+A. zmiany uprawnień drukowania
+B. uprawnień specjalnych*
+C. zarządzania drukarkami
+D. zarządzania dokumentami
+Który poziom macierzy RAID zapisuje dane równolegle na kilku dyskach jako jedno urządzenie:
+A. RAID 1
+B. RAID 3
+C. RAID 0*
+D. RAID 2
+W systemie Windows 7 w celu skopiowania katalogu c: est wraz z podkatologami na dysk przenośny f: należy użyć polecenia:
+A. copy f: est c: est/E
+B. copy c: est f: est/E
+C. xcopy c: est f: est/E*
+D. xcopy f: est c: est/E
+40. DB-25 jest wykorzystywane jako złącze:
+A. portu równoległego LPT*
+B. GamePort
+C. VGA, SVGA i XGA
+D. portu RS-422A
+Zabrudzony czytnik w napędzie optycznym powinno się czyścić:
+A. izopropanolem
+B. rozpuszczalnikiem ftalowym
+C. spirytusem*
+D. benzyną ekstrakcyjną
+W sieci Ethernet 100BaseTX dla transmisji danych wykorzystywane są żyły kabla UTP dołączone do pinów <<2.jpg>>:
+A. 4, 5, 6, 7
+B. 1, 2, 5, 6
+C. 1, 2, 3, 6*
+D. 1, 2, 3, 4
+Bezpłatnym programem antywirusowym dostarczanym przez Microsoft dla użytkowników legalnych wersji systemu operacyjnego Windows jest:
+A. Microsoft Free Antywirus
+B. Windows Defender*
+C. Windows Antywirus
+D. Microsoft Security Essentials
+Robak komputerowy to program, który:
+A. potrzebuje programu nosiciela
+B. uaktywnia się, gdy nadejdzie odpowiednia data
+C. uruchamia się, gdy użytkownik zainfekowanego komputera uruchomi jakiś program
+D. ma zdolność samoreplikacji*
+Norma EN 50167 dotyczy okablowania:
+A. pionowego
+B. kampusowego
+C. szkieletowego
+D. poziomego*
+Który przyrząd jest stosowany do pomiarów długości i tłumienności przewodów miedzianych?:
+A. Woltomierz
+B. Omomierz
+C. Miernik mocy
+D. Reflektometr TDR*
+Dopuszczalny promień zgięcia podczas instalacji kabla U/UTP kat.5E wynosi:
+A. cztery średnice kabla
+B. sześć średnic kabla
+C. dwie średnice kabla
+D. osiem średnic kabla*
+Do pomiaru tłumienia łącza światłowodowego w dwóch oknach transmisyjnych 1310 nm i 1550 nm należy użyć:
+A. rejestratora cyfrowego
+B. reflektometru TDR
+C. miernika mocy optycznej*
+D. testera UTP
+Elementem służącym do utrwalania tonera na papierze podczas wydruku z drukarki laserowej jest:
+A. listwa czyszcząca
+B. elektroda ładująca
+C. wałek grzewczy*
+D. bęben światłoczuły
+Które przyporządkowanie: urządzenie - realizowana funkcja jest błędne?:
+A. Ruter - połączenie komputerów w tej samej sieci*
+B. Modem - połączenie sieci lokalnej z Internetem
+C. Przełącznik - podział sieci na VLAN-y
+D. Access Point - bezprzewodowe połączenie komputerów do sieci lokalnej
+Kabel sieciowy zakończony wtykami RJ45 sprawdzano diodowym testerem okablowania. Na testerze diody LED zapalały się kolejno oprócz diod oznaczonych numerami 2 i 3, które zapalały się równocześnie na jednostce głównej testera, a nie zapalały się na jednostce zdalnej. Co było tego przyczyną?
+A. Nieciągłość kabla
+B. Pary skrzyżowane
+C. Zwarcie*
+D. Pary odwrócone
+Zgodnie z modelem TCP/IP protokoły DNS, FTP oraz SMTP, należą do warstwy:
+A. transportowej
+B. aplikacji*
+C. internetowej
+D. dostępu do sieci
+Polecenie umożliwiające poznanie adresów fizycznych dla kart sieciowych w systemie Windows to:
+A. arp -a
+B. pathping
+C. getmac*
+D. ping
+W systemie Linux informacje o okresie ważności hasła są zapisane w pliku:
+A. grub
+B. passwd
+C. bash
+D. shadow*
+Najczęstszą przyczyną rozmazywania się tonera na wydrukach z drukarki laserowej jest:
+A. Zacięcie papieru
+B. Uszkodzenie rolek
+C. Zanieczyszczenie wnętrza drukarki
+D. Zbyt niska temperatura utrwalacza*
+Który z wymienionych protokołów odwzorowuje 48-bitowy fizyczny adres MAC na 32-bitowy adres IP?:
+A. TCP
+B. ARP
+C. IP
+D. RARP*
+Dodatkowe cechy wyniku operacji wykonywanej przez jednostkę arytmetyczno - logiczną ALU zawiera:
+A. licznik rozkazów
+B. rejestr flagowy*
+C. akumulator
+D. wskaźnik stosu
+Niskopoziomowe formatowanie dysku IDE HDD:
+A. tworzy partycję podstawową.
+B. jest wykonywane przez producenta dysku.*
+C. umieszcza program rozruchowy w MBR
+D. tworzy partycję rozszerzoną.
+Udostępnianie linuksowych usług drukowania oraz serwera plików stacjom roboczym Windows, OS X, Linux umożliwia serwer:
+A. POSTFIX
+B. APACHE
+C. SQUID
+D. SAMBA*
+Aby w systemach Windows Server wykonać aktualizację dzierżawy adresów DHCP oraz rejestrację nazw związanych z systemem DNS w wierszu polecenia, należy wpisać polecenie
+A. ipconfig /registerdns*
+B. ipconfig /release
+C. ipconfig /renew
+D. ipconfig /flushdns
+Miarą podawaną w decybelach, będącą różnicą mocy sygnału przesyłanego w parze zakłócającej i sygnału wytworzonego w parze zakłócanej jest
+A. rezystancja pętli
+B. przesłuch zdalny
+C. poziomu mocy wyjściowej
+D. przesłuch zbliżny*
+Na podstawie którego adresu przełącznik podejmuje decyzje o przesyłaniu ramki?:
+A. Adresu źródłowego MAC
+B. Adresu docelowego MAC*
+C. Adresu docelowego IP
+D. Adresu źródłowego IP
+Które medium transmisyjne zapewnia najmniejsze narażenie na zakłócenia elektromagnetyczne przesyłanego sygnału?
+A. Cienki kabel koncentryczny
+B. Kabel światłowodowy*
+C. Czteroparowy kabel FTP
+D. Gruby kabel koncentryczny
+Zasilanie dostarczane przez płytę główną dla pamięci typu SDRAM DDR3 może mieć wartość:
+A. 3,3 V
+B. 1,5 V*
+C. 1,2 V
+D. 2,5 V
+Administrator musi podzielić adres 10.0.0.0/16 na 4 równe podsieci o tej samej liczbie hostów. Jaką maskę będą miały te podsieci?:
+A. 255.255.192.0*
+B. 255.255.224.0
+C. 255.255.128.0
+D. 255.255.0.0
+W systemie Windows, zainstalowanym w wersji obsługującej przydziały dyskowe, użytkownik o nazwie Gość
+A. nie może należeć do żadnej grupy
+B. może należeć tylko do grupy globalnej
+C. może należeć tylko do grupy o nazwie Goście
+D. może należeć do grup lokalnych i do grup globalnych*
+W celu wyegzekwowania od użytkowników lokalnych systemów z rodziny Windows Server okresowej zmiany hasła i stosowania haseł o odpowiedniej długości spełniających wymagania co do złożoności, należy skonfigurować
+A. zasady haseł w zasadach zabezpieczeń lokalnych*
+B. konta użytkowników w Panelu Sterowania
+C. właściwości konta użytkownika w zarządzaniu komputerem
+D. zasady blokady konta w zasadach grup
+Które medium transmisyjne sieci LAN zaleca się do zastosowania w zabytkowych budynkach?
+A. Światłowód
+B. Kabel koncentryczny
+C. Kabel typu skrętka
+D. Fale radiowe*
+Którą z opcji konfiguracji ustawień użytkownika z ograniczonymi uprawnieniami w systemie Windows, umożliwia przystawka secpol?
+A. Zezwolenie na zmianę czasu systemowego*
+B. Odebranie możliwości zapisu na płytach CD
+C. Czyszczenie historii niedawno otwieranych dokumentów
+D. Blokadę określonych elementów w panelu sterowania
+Sieć Ethernet pracuje w logicznej topologii
+A. pierścieniowej i liniowej
+B. rozgłaszania*
+C. siatkowej
+D. siatki i gwiazdy
+Standardem komunikacji pomiędzy skanerem a programem graficznym jest
+A. SCAN
+B. TWAIN*
+C. USB
+D. OPC
